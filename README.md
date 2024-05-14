@@ -173,4 +173,4 @@
          Expected Behavior: All text should be displayed in English.
          Observed Behavior: Some text remains in Chinese.
          Severity: Minor
-
+wew
