@@ -134,9 +134,9 @@
 
 
    **Versions**
-   
-   --Version 1.1
-   
+
+    --Version 1.1
+    
        Bug: Book Search Function Returns No Results
 
          Title: Book search function fails to find an existing book
